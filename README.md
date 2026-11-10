@@ -32,3 +32,4 @@ BASH
 
 jupyter notebook
 Ouvrir le fichier projet_music_data.ipynb et exécuter les cellules jusqu'en bas.
+
